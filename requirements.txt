@@ -1,0 +1,5 @@
+streamlit
+requests
+notion-client
+sentence-transformers
+openai
